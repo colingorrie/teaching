@@ -1,16 +1,90 @@
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Tinos:400,700,400italic);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
 body {
-  font-family: 'Droid Serif';
+  font-family: 'Linux Libertine O', serif;
 }
 
 h1, h2, h3 {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Roboto Condensed';
   font-weight: normal;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+li ul {
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 .remark-code, .remark-inline-code {
   font-family: 'Ubuntu Mono';
 }
+
+.footnote {
+  font-size: 70%;
+}
+
+.img-large img {
+  max-height: 500px;
+  width: auto;
+}
+
+.img-medium img {
+  max-height: 300px;
+  width: auto;
+}
+
+.img-small img {
+  max-height: 100px;
+  width: auto;
+}
+
+table {
+  border: none;
+  border-collapse: collapse;
+  margin: 0 auto;
+  text-align: center;
+}
+
+table td, table th {
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  padding: 0 5px;
+}
+
+table th {
+  margin-bottom: 5px;
+}
+
+table td:first-child, table th:first-child {
+  border-left: none;
+}
+
+table td:last-child, table th:last-child {
+  border-right: none;
+}
+
+.emph {
+  color: red;
+  font-weight: bold;
+}
+
+.ss1 { background-color: #ec33aa; color: #fff; padding: 0 2px; }
+.ss2 { background-color: #00744e; color: #fff; padding: 0 2px; }
+.ss3 { background-color: #d7004e; color: #fff; padding: 0 2px; }
+.ss4 { background-color: #00308c; color: #fff; padding: 0 2px; }
+.ss5 { background-color: #5b5300; color: #fff; padding: 0 2px; }
+.ss6 { background-color: #d26d70; color: #fff; padding: 0 2px; }
+.ss7 { background-color: #a28756; color: #fff; padding: 0 2px; }
+
+
+
+
+
+
+
+
