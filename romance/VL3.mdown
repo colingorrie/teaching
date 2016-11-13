@@ -1,0 +1,111 @@
+# CL and VL consonant inventories
+
+Now that we've dealt with the changes in the vowel system, let's turn to the ways in which the Cl consonantal system developed in VL. The big difference to note is the explosion of the palatal series, going from only the single approximant /j/ in CL to five phonemes in VL. As we'll see soon, this came about by two paths: (i) the contact of velar stops with following front vowels (VL /i e ɛ/), and (ii) the contact of dentals and velars with a following yod (VL /j/). Before tackling palatalization, however, let's look at some of the other ways in which the system changed.
+
+# The fate of CL /h/
+
+One relatively simple change was the complete loss of CL /h/. Although many of the Romance languages retain *h* in the orthography (spelling system), none pronounces it.
+
+# Labial reorganization: CL /w -b-/
+
+The CL labial series did not make it into VL unchanged either. The labio-velar approximant /w/ (spelled *v*) became a voiced labial fricative, either the bilabial fricative /β/ or the labiodental fricative /v/, depending on the region.
+
+It was joined in this fate by CL /b/ in certain positions traditionally vulnerable to *lenition* or weakening: between vowels, and after a vowel but before a liquid.
+
+## CL /w/ → VL /β/
+## CL /-b-/ → VL /β/
+
+So *vītam* and *habēre* start to be pronounced in a way more like their Romance descendents.
+
+# The fate of the CL approximant /j/
+
+Another change involved the only CL palatal, the approximant /j/. This was spelled *i* just as the CL vowel /i/, both in Roman times and in many contemporary Latin books. The sound written *i* was pronounced as a consonant /j/ only word-initially *iam* or between vowels *māior*. When it occurred between vowels, it was always doubled or geminated. In both of these cases, the CL approximant became a fricative in VL, either palatal /ʝ/ or postalveolar /ʒ/ depending on the region.
+
+## CL /j/ → VL /ʝ/
+## CL /-jj-/ → VL /ʝʝ/
+
+The way this change happened was that the singleton /j/ stayed singleton, and the geminate /jj/ stayed geminate.
+
+It's important not to confuse this CL /j/ with the VL /j/ that gives us all the palatalization changes I was talking about earlier. In the case of *iūnium*, we can see the difference: the CL approximant /j/ becomes a VL fricative /ʝ/, while the VL approximant /j/ comes from a CL vowel /i/.
+
+# Emergence of VL /j/
+
+It wasn't just any vowel that became VL /j/: it happened only to the front vowels CL /i e/ in a position called **hiatus**: immediately before another vowel. In CL, these vowels formed separate syllables: *unciam*, *puteum*. But in VL, these vowels in hiatus became desyllabified into the approximant /j/. With this, VL suddenly had sequences of consonants followed by /j/ that it had never had before, and the way it dealt with these in many cases was to coalesce the consonant and /j/ into a new palatal consonant. Let's talk about the specifics of how that happened now.
+
+# Palatalization
+
+As I mentioned at the start of this video, palatalization is the big story in the change from the CL to the VL consonant system. The palatalization proceeded by two slightly different routes: one happened before of front vowels, and the other, more extensive, palatalization happened in contact with VL /j/.
+
+# Palatalization before front vowels
+
+## CL /k/ → VL /tʃ/ 
+## CL /ɡ/ → VL /ʝ/
+
+The palatalization that occurred before front vowels only affected two CL consonants: the velar stops /k ɡ/. Before front vowels, these changed dramatically: /k/ fronted to a postalveolar affricate /tʃ/, and /ɡ/ fronted to a palatal fricative /ʝ/ (merging with CL /j/).
+
+How did this happen? Even in CL, these two consonants likely had fronted **allophones** before front vowels. It happens in English too: if you're a native speaker of English, pay close attention to where your tongue lands when you say *key* versus *caw*. It's not hard to imagine that distance increasing over time, and that's exactly what happened in VL.
+
+This is also the origin of the distinction between "soft/hard *c* and *g*" in English (as well as French, where we got it from, and Italian, Spanish, etc.)
+
+## Palatalization before /j/
+
+## CL /k/ → VL /tʃ/
+## CL /ɡ/ → VL /ʝʝ/
+
+The palatalization that occured before VL /j/ (which, remember, was derived from desyllabifying CL front vowels in hiatus) was slightly different. First, it affected more than just the velar stops. Secondly, it swallowed up the /j/ that conditioned it. And thirdly, it affected even the velar stops slightly differently than the palatalization before front vowels. So CL /ɡj/ did not become /ʝ/ as it did before front vowels, but rather geminate /ʝʝ/.
+
+## CL /t/ → VL /ts/
+## CL /d/ → VL /ʝʝ/
+
+One of the other groups this palatalization affected was the dental stops /t d/, which changed before /j/ in almost the same way as the velar stops did. Almost: /tj/ became /ts/ instead of /tʃ/, although the way /dj/ and /ɡj/ changed was indistinguishable.
+
+## CL /n/ → VL /ɲ/
+## CL /l/ → VL /ʎ/
+
+Stops weren't the only thing that fell victim to palatalization: the coronal sonorants CL /n l/ also became palatals in combination with a following /j/.
+
+# Consonant cluster simplification
+
+## CL /ns/ → VL /s/ 
+
+That sums up the changes that altered the system of contrasts, creating new phonemes and destroying old ones. But there were also changes that created words that would have fit right in in CL. We call these changes **structure-preserving**, because they preserve the structure of the original phonological system.
+
+A major class of these changes involve the simplification of consonant clusters. The first of these changes actually occurred in CL as well: /ns/ was pronounced as /s/ along with a long preceding vowel. This process is called **compensatory lengthening**, and is very common cross-linguistically: a consonant is deleted, and its "length" gets transmitted to the vowel before it.
+
+## CL /ps/ → VL /ss/
+## CL /rs/ → VL /ss/
+
+The other simplifications did not work by compensatory lengthening: instead, they produced geminates: *gypsum*, *persicam*.
+
+## CL /pt/ → VL /tt/
+## CL /ksC/ → VL /sC/
+
+*Septem* works the same way.
+
+Clusters beginning in /ks-/ (spelled *x-*) also simplified, although they did not become geminates, because this would create a geminate followed by a consonant, which generally does not happen cross-linguistically.
+
+# Word-initial /s/ clusters
+## CL /sC/ → VL /esC/
+
+In CL, as in English, syllables can begin with consonant clusters beginning in /s/. Not all languages allow this: in fact many languages forbid these very clusters. The reason for this is a general rule that syllables must rise in sonority towards the vowel (simplifying somewhat): this is why /pl-/ is a valid syllable onset but not /lp-/, because liquids are more sonorous than stops.
+
+Now, of course, some languages are exceptions to this rule, such as English and CL. But, in between CL and VL, these clusters became illicit. There are two possible strategies a language could take to repair this: either delete one of the consonants or add a vowel, so that the /s/ can by syllabified separately from the other consonant. This is what VL did, and you can see the results in languages like Spanish, which strictly enforce this rule down to the present day. French and Italian, by contrast, no longer do.
+
+# Word-final consonants
+## CL /-Ṽ/ → VL /-Vn/ in frequent monosyllabic words
+
+Moving onto the fate of word-final consonants, we can first note one exception to the seeming loss of final *m* in VL. is in certain frequent monosyllabic words. There, the nasalized vowel of CL became a /-Vn/ sequence.
+
+# Consonants liable to loss
+
+Word-final CL consonants in general did not fare well in VL, although the degree to which they were lost differs from region to region. Final CL /-d/ and /-k/ (relatively rare in CL) were lost everywhere. Final CL /-t/, used for example in the third-person singular of verbs, was lost everywhere but in Gaul, perhaps still surviving in some marginal spots in French, for example *aime-t-il?* 'does he love?'
+
+Word-final /-s/, notable as the accusative plural marker, was lost only in Italy. As a result, Italian plurals look a lot more like the Latin nominative than the accusative: compare Italian *stelle* 'stars' with Spanish *estrellas*. Some think that Italian actually derived its plurals from the Latin nominative (*stellae*), while others think that Italian plurals like *stelle* also derived from the accusative *stellas*. Regardless, /-s/ did not survive in Italy.
+
+## CL /-Vr/ → VL /-rV/
+
+Finally, words ending in /-Vr/ which were not merely nominatives like *color* or *magister* -- remember, they came into VL as *colore* and *magistro* -- had their /r/ and vowel flipped: CL *semper*, VL *sempre*.
+
+# References
+
+That takes us to the end of our whirlwind tour of the phonological changes from CL to VL. I've listed some resources which give good accounts of these changes and are relatively beginner-friendly. Leave a comment if you've got any questions, and I'd be happy to answer them. Thanks!
